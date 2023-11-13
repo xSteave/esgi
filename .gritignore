@@ -1,1 +1,50 @@
+# Dossier spécifique à l'environnement de développement 
+node_module/
+dist/
+.cache/
+.tmp/
+log/
+logs/
+*.log
 
+# Fichiers de configuration locaux 
+.env
+.env.local
+.env.*.local
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*~
+
+# Fichiers de configuration de l'éditeur
+.idea/
+*.iml
+
+# Dossier spécifique aux bases de données
+/db/
+/db-connection.json
+
+# Dépendance de gestionnaire de paquets
+package-lock.json
+yarn.lock
+
+# Dossiers spécifiques à la production
+/build/
+/out/
+/dist/
+/public/
+
+#Fichiers de configuration de l'éditeur 
+.editorconfig
+
+# Cache de tests
+.cache/
+*.tmp
+
+# Les fichiers de build
+build/
+.DS_Store
+
+# Les fichiers temporaires 
+*.tmp
