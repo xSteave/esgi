@@ -10,8 +10,6 @@ Description du Bug :
 Comportement Attendu :
 [Décrivez le comportement attendu]
 
-Environnement (système d'exploitation, navigateur, etc.) :
-[Informations sur l'environnement]
 
 Autres Informations :
 [Autres détails pertinents]
