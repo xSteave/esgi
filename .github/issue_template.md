@@ -1,6 +1,5 @@
-Rapport de Bug
-Description du Bug :
-[Description détaillée du bug]
+Rapport de Bug/Ajout d'une fonctionnalité/Fix d'un Bug
+[Description détaillée]
 
 Étapes pour Reproduire :
 [Étape 1]
