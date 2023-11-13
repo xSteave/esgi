@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2"
+  },
+  "dependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^15.1.0"
+  }
+}
+  "husky": {
+	  "hooks": {
+		  "pre-commit": "lint-staged"
+		   }
+  },
+  "lint-staged": {
+	  "linters": {
+		  "*.js": ["eslint --fix", "git add"]
+	  }
+}
+
+
