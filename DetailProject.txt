@@ -1,0 +1,23 @@
+Synthèse de Projet - HEALWITHSPORT
+Description du Projet :
+
+HEALWITHSPORT est une plateforme d'e-commerce spécialisée dans la vente d'articles de sport de qualité. Notre mission est de fournir aux amateurs de sport des produits exceptionnels qui les aident à atteindre leurs objectifs de bien-être et de performance.
+
+Contributeurs du Projet
+Esteban :
+Configuration du linter et des hooks pour garantir la qualité du code.
+Rédaction des fichiers de configuration : .eslintrc.js, .gitignore.
+Rédaction des fichiers de documentation : CONTRIBUTING.md, CODE_OF_CONDUCT.md, README.md.
+Création et gestion du GitHub Project pour le suivi des tâches.
+
+Steave, Abdrahmane, et Esteban :
+Création de 15 branches distinctes, représentant chaque fonctionnalité ou tâche spécifique.
+Collectivement, ouverture de 15 issues détaillant les problèmes ou les fonctionnalités à implémenter.
+Collaboration sur les Merge Requests (MR) pour garantir une revue de code avant la fusion dans la branche principale.
+Gestion des Branches, Issues et Merge Requests.
+
+Respect des Bonnes Pratiques
+Utilisation de .gitignore pour exclure les fichiers inutiles du suivi Git.
+Mise en place de hooks pour garantir la qualité du code avec un linter.
+Création d'un GitHub Project pour suivre et organiser les tâches du projet.
+Respect du Git Flow avec une gestion claire des branches et des MR.
